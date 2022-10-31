@@ -5,7 +5,7 @@ The application is written in Python 3.8
 
 
 **If you want to run directly, make sure you have the modules installed:
-`ttkthemes`, `tkinter`, `Pillow`**
+`ttkthemes`, `tkinter`, `Pillow`, `idlelib`**
 
 
 **To convert python to exe:**
