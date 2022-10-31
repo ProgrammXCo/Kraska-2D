@@ -14,3 +14,4 @@ cd "directory"
 python setup.py build       "to create an exe"
 python setup.py bdist_msi   "to create a launcher"
 
+![2022-10-31_09-46-09](https://user-images.githubusercontent.com/103824591/198952380-019b5ba8-3092-4835-aefa-f64fb800fd08.png)
