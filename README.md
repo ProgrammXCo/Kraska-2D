@@ -9,8 +9,8 @@ ttkthemes, tkinter, Pillow***
 
 
 To convert python to exe:
-`#RRGGBB`pip install cx_Freeze`#0969DA`
-`#RRGGBB`cd "directory"`#0969DA`
-`#RRGGBB`python setup.py build`#0969DA`        "to create an exe"
-`#RRGGBB`python setup.py bdist_msi`#0969DA`    "to create a launcher"
+#RRGGBB pip install cx_Freeze #0969DA
+#RRGGBB cd "directory" #0969DA 
+#RRGGBB python setup.py build #0969DA        "to create an exe"
+#RRGGBB python setup.py bdist_msi #0969DA    "to create a launcher"
 
