@@ -14,4 +14,4 @@ The application is written in Python 3.8
 3. **`python setup.py build`**       "to create an exe"
 4. **`python setup.py bdist_msi`**   "to create a launcher"
 
-![2022-10-31_09-46-09](https://user-images.githubusercontent.com/103824591/198952380-019b5ba8-3092-4835-aefa-f64fb800fd08.png)
+![2022-11-01_10-06-33](https://user-images.githubusercontent.com/103824591/199178240-57b8c690-1986-4e34-a8bd-c4eaa74bf40c.png)
